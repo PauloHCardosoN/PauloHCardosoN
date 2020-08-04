@@ -1,16 +1,11 @@
-### Hi there 👋
+## Olá pessoal 👋 
+Sou um entusiasta da programação e amante da tecnologia. Sou um FullStack Developer :computer:
 
-<!--
-**PauloHCardosoN/PauloHCardosoN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💨  &nbsp; No momento estou procurando estágio em **Manaus**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-End, Back-End e/ou Mobile
+ <br/> :blush: &nbsp; No que eu puder ajudar, eu irei.
+ <br/> :computer: &nbsp; Minha stack: Node.js, Knex, ReactJS, React Native & Typescript.
+ <br/> :email: &nbsp; Entre em contato comigo: 
+ [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Cardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulohcardoson/)](https://www.linkedin.com/in/paulohcardoson/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-paulohcardoson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulohcardoson@gmail.com)](mailto:paulohcardoson@gmail.com)
